@@ -4,7 +4,7 @@ Tools, Frameworks and libraries used are:
 2. Pandas, smtplib, schedule, openai
 
    
-HTML, CSS for frontend development (audio ans background image)
+HTML, CSS for frontend development (audio and background image)
 
 
 Python and llm like openai can be used to schedule the emails at the same time.
