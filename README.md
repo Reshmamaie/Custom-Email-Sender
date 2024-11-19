@@ -2,7 +2,9 @@
 Tools, Frameworks and libraries used are:
 1. Pycharm, Flask, Flask-mail
 2. Pandas, smtplib, schedule, openai
-HTML, CSS for for frontend development (audio ans background image)
+HTML, CSS for frontend development (audio ans background image)
+
+
 Python and llm like openai can be used to schedule the emails at the same time.
 The user should create his credentials and than log in. No need to create new credentials repeatedly. Once created it will be saved on the server.
 A CSV file with details of users are given. In the main page we can type any email address, the message prompt by which you want to develop our business and scheduling time.
