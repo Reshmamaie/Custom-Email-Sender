@@ -2,6 +2,8 @@
 Tools, Frameworks and libraries used are:
 1. Pycharm, Flask, Flask-mail
 2. Pandas, smtplib, schedule, openai
+
+   
 HTML, CSS for frontend development (audio ans background image)
 
 
